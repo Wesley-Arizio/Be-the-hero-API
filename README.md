@@ -4,7 +4,7 @@ Be the hero is a project developed on the OmniStack week by rocketseat
 
 
 ## Start the project
-    Clone or dowload the project.
+    Clone or download the project.
 
 ## Starting the API
     
